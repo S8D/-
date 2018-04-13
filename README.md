@@ -1,2 +1,2 @@
 # NihonGo
-Ở đây sẽ tập trung những bài text về tiếng Nhật
+Những tài liệu học tiếng Nhật sẽ tập trung ở đây.
