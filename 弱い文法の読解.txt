@@ -358,38 +358,23 @@ Kobayashi: Vậy sau đó thì có thể gửi mail cho mọi người được 
                Bài dịch số 31 | ... さんで翻訳された
 
 =========================================================================
-               弟３２課｜
-鹿児島県に住んでいる12歳の小学生が、美容整形手術を受ける。
-小学生に整形手術は必要なのか。
-小学生:
+               弟３２課｜美容整形手術
+	鹿児島県に住んでいる１２歳の小学生が、美容整形手術を受ける。小学生に整形手術は必要なのか。
 手術を受ける予定の小学生やその母親などにインタビューをした。
-鼻を高くすれば、みんなが私をいじめなくなる。
-顔がきれいになれば、自信がでてきて、学校や勉強が楽しくなると思う。
-勉強が楽しくなれば、将来、いい大学に入れると思う。
-いい大学に入れれば、好きな仕事もできると思うんだ。
-母:
-100万円出せば、この子の顔はきれいになるんです。
-私も、20歳のころ手術をして、幸せな結女昏をしました。
-きれいになれば、この子も将来すばらしい結婚ができます。
-お金があれば、誰でもみんな手術するだろうと思いますよ。
-父:
-反対です。
-妻とは、美人だから結婚したんじゃありませんよ。
-それに、この子はぼくによくにているんです。
-今の目や鼻がこの子の顔から消えてしまったら、本当にさびしいです よ。
-誰にもにていない子どもになってしまうんですから
-心理学者:
-12歳の子どもに、美容整形手術をするというのは問題ですね。
-体も心もこれから大きく成長するからです
+	小学生: 鼻を高くすれば、みんなが私をいじめなくなる。顔がきれいになれば、自信がでてきて、
+学校や勉強が楽しくなると思う。勉強が楽しくなれば、将来、いい大学に入れると思う。いい大学に入れれば、
+好きな仕事もできると思うんだ。
+	母: １００万円出せば、この子の顔はきれいになるんです。私も、２０歳のころ手術をして、幸せな結女昏をしました。
+きれいになれば、この子も将来すばらしい結婚ができます。お金があれば、誰でもみんな手術するだろうと思いますよ。
+	父: 反対です。妻とは、美人だから結婚したんじゃありませんよ。それに、この子はぼくによくにているんです。
+今の目や鼻がこの子の顔から消えてしまったら、本当にさびしいですよ。誰にもにていない子どもになってしまうんですから。
+	心理学者:　１２歳の子どもに、美容整形手術をするというのは問題ですね。体も心もこれから大きく成長するからです。
 顔が変われば心も変わるだろうと思うのはあまりいいことではありませんね。
-有名歌手：
-私は16歳の時、整形手術したの。
-その後、すぐ歌手になることができて、歌も大ヒット。
-顔がよければ、歌も売れるよ。歌がうまければヒットする？それはちがうよ。
-でも、子どもの時の友だちには会わない。
+	有名歌手：　私は１６歳の時、整形手術したの。その後、すぐ歌手になることができて、歌も大ヒット。
+顔がよければ、歌も売れるよ。歌がうまければヒットする？それはちがうよ。でも、子どもの時の友だちには会わない。
 むかしの顔は秘密だから。
 -------------------------------------------------------------------------
-               Bài dịch số 32 | Hạnh さんで翻訳された
+               Bài dịch số 32: Phẫu thuật thẩm mĩ | Hạnh さんで翻訳された
 	Một học sinh tiểu học 12 tuổi hiện đang sống ở quận Kagoshima,
 sẽ tham gia cuộc phẫu thuật thẩm mĩ. Việc phẫu thuật thẩm mĩ với một học sinh
 tiểu học thì có cần thiết hay không. Tiến hành cuộc phỏng vấn với cả mẹ và học sinh
@@ -410,7 +395,7 @@ thì thật sự tôi sẽ rất buồn. Vì đứa trẻ sẽ trở nên giốn
 Vì bây giờ cả cơ thể và tâm lí sẽ phát triển mạnh mẽ. Việc nghĩ rằng
 nếu gương mặt thay đổi tâm lí của của đứa trẻ cũng sẽ thay đổi thì
 không phải là điều đúng đắn lắm.
-Ca sĩ nổi tiếng: Tôi đã làm phẫu thuật thẩm mỹ khi tôi 16 tuổi.
+	Ca sĩ nổi tiếng: Tôi đã làm phẫu thuật thẩm mỹ khi tôi 16 tuổi.
 Sau đó, tôi đã có thể trở thành một ca sĩ sớm, bài hát cũng là một hit lớn.
 Nếu khuôn mặt đẹp, việc ca hát cũng có thể đắt show. Bạn có thành hit nếu bài hát tốt?
 Nó sẽ khác biệt đấy. Nhưng những người bạn thời thơ ấu thì không gặp nữa.
@@ -460,16 +445,21 @@ cũng có thể nói là dường như số nam giới làm việc nhà đang t�
 	Ở một nơi nọ của Nhật, có một cậu bé vi diệu.
 Cậu ấy được gọi là "Siêu nhóc", có vẻ như cái gì cậu ấy cũng làm được.
 	Lúc 1 tuổi, cậu bé đã có thể nói được.
-Mặc dù không có ai dạy cho cậu hết, mà cậu ta vẫn có thể nói được tiếng Nhật, tiếng Anh, tiếng Trung và tiếng Pháp.
+Mặc dù không có ai dạy cho cậu hết, mà cậu ta vẫn có thể nói được
+tiếng Nhật, tiếng Anh, tiếng Trung và tiếng Pháp.
 Lên 2 tuổi, cậu ta có thể đọc sách. Cũng như Hiragana, Katakana và chữ Hán.
-Lên 3 tuổi, cậu (đã) có thể chơi Violon. Và nhờ người ta Hãy đưa cậu đến buổi hòa nhạc.
-Lên 4 tuổi, cậu có thể dùng máy tính. (Với máy tính cậu ấy) Nào là viết văn, dùng mạng, cũng như tự mình tạo Website.
+Lên 3 tuổi, cậu (đã) có thể chơi Violon. Và nhờ người ta Hãy đưa cậu đến
+buổi hòa nhạc.
+Lên 4 tuổi, cậu có thể dùng máy tính. (Với máy tính cậu ấy)
+Nào là viết văn, dùng mạng, cũng như tự mình tạo Website.
 Lên 5 tuổi, cậu có thể làm nấu ăn. 
-Dĩ nhiên là đồ ăn Nhật, đồ ăn Ý, đồ ăn Tàu, món nào cậu ấy cũng có thể làm được.
-Hơn nữa, món ăn mà cậu làm rất ngon đó.
-Lên 6 tuổi, cậu có thể viết sách. Cậu đã xuất bản tiểu thuyết về chuyện của bản thân cậu được gọi là "Siêu nhóc".
+Dĩ nhiên là đồ ăn Nhật, đồ ăn Ý, đồ ăn Tàu,món nào cậu ấy cũng
+có thể làm được. Hơn nữa, món ăn mà cậu làm rất ngon đó.
+Lên 6 tuổi, cậu có thể viết sách. Cậu đã xuất bản tiểu thuyết về
+chuyện của bản thân cậu được gọi là "Siêu nhóc".
 	Thật sự ngay cả Siêu nhóc như thế này cũng có 1 chuyện không thể.
-Đó là cậu ấy ghét sữa nên cậu không thể uống sữa được. Nhưng mà, vì cậu ấy nên mọi người hãy giữ bí mật chuyện này nha.
+Đó là cậu ấy ghét sữa nên cậu không thể uống sữa được. Nhưng mà,
+vì cậu ấy nên mọi người hãy giữ bí mật chuyện này nha.
 =========================================================================
                弟３６課｜
 	アナウンサー: 今日は９月１５日、「敬老の日」です。今年１００歳のおじいさん、おばあさんにお話をお聞きしました。
