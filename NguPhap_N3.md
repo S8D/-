@@ -180,7 +180,7 @@ uống luôn cho xong đi
 
 trộn lẫn, lẫn lộn mất rồi
 
-### Bài 2 -- Cấu trúc 6 :
+### Cấu trúc 6 :
 
 Vてとく : làm sẵn V
 
@@ -210,7 +210,7 @@ Viết luôn các chỗ đã bị nhầm vào trong sổ ghi chép thôi (để 
 
 Giấy vệ sinh sắp hết rồi, nếu không mua để đó (thì không được)
 
-### Bài 2 -- Cấu trúc 7 :
+### Cấu trúc 7 :
 
 （N/Aい/Aな/V普）＋みたいだ/みたいに/みたいなN
 
@@ -264,7 +264,7 @@ Tôi muốn nói tiếng Nhật giỏi như chị Rin
 
 Nói là bán công ty, nhưng có vẻ là bị thâu tóm
 
-### Bài 2 -- Cấu trúc 8 :
+### Cấu trúc 8 :
 
 Nらしい
 
@@ -282,7 +282,7 @@ Nhấn mạnh tính chất tiêu biểu của danh từ đó
 
 Hôm nay trời ấm như một ngày mùa xuân vậy
 
-### Bài 2 -- Cấu trúc 9 :
+### Cấu trúc 9 :
 
 Nっぽい
 
@@ -326,7 +326,7 @@ Mang dáng vẻ như là trẻ con/con gái/con trai/ xã hội đen
 
 Món này toàn dầu là dầu
 
-### Bài 2 -- Cấu trúc 10 :
+### Cấu trúc 10 :
 
 Vる/Vない＋ようにする
 
@@ -348,7 +348,7 @@ Xin hãy chú ý không để quên đồ
 
 Viết chữ sao cho dễ đọc (người khác có thể đọc được)
 
-### Bài 3 -- Cấu trúc 11 :
+### Cấu trúc 11 :
 
 Vる/Vない/Vれる＋ように、~
 
@@ -372,7 +372,7 @@ Hãy nói to hơn để mọi người có thể nghe thấy.
 
 Hãy ghi vào sổ tay để khỏi quên
 
-### Bài 3 -- Cấu trúc 12 :
+### Cấu trúc 12 :
 
 Vる＋ようになる
 
@@ -396,7 +396,7 @@ Nhờ anh sửa cho tôi cái đầu đĩa DVD này mà nó lại dùng được
 
 Cái đèn này hễ có người đi qua, là nói bật lên (chuyển từ trạng thái tắt sang bật)
 
-### Bài 3 -- Cấu trúc 13 :
+### Cấu trúc 13 :
 
 Nの/V普＋ように、～
 
@@ -428,7 +428,7 @@ Như được viết ở đây, thứ 5 tuần này, giờ học sẽ chỉ có 
 
 Như đã nói từ trước, học phí từ sang năm sẽ tăng
 
-### Bài 3 -- Cấu trúc 14 :
+### Cấu trúc 14 :
 
 Vる/Vない＋ようにする
 
@@ -460,7 +460,7 @@ Dạ vâng ạ
 
 Chớ hút thuốc ở đây nhé
 
-### Bài 3 -- Cấu trúc 15 :
+### Cấu trúc 15 :
 
 Vます/Vません/Vれます＋ように
 
@@ -488,7 +488,7 @@ Cầu cho bệnh của mẹ mau khỏi !
 
 Mong sao mình sẽ không bị nhiễm cúm gà
 
-### Bài 4 -- Cấu trúc 16 :
+### Cấu trúc 16 :
 
 Vよう＋と思う：
 
@@ -528,7 +528,7 @@ Năm sau tôi định về nước.
 
 Tôi định làm như thế này.
 
-### Bài 4 -- Cấu trúc 17 :
+### Cấu trúc 17 :
 
 Vよう＋とする
 
@@ -554,7 +554,7 @@ Hành động V và hành động ở câu phía sau có khoảng cách rất ng
 
 Đúng lúc tôi định đi ra ngoài thì con chó nó sủa
 
-### Bài 4 -- Cấu trúc 18 :
+### Cấu trúc 18 :
 
 Vよう＋としない
 
@@ -576,7 +576,7 @@ Anh An không hiểu bị sao. Anh ấy không có vẻ gì là muốn ăn cơm 
 
 Anh ấy sẽ không nói gì về bản thân đâu
 
-### Bài 4 -- Cấu trúc 19 :
+### Cấu trúc 19 :
 
 （N/Vて）＋ばかり/ばかりだ/ばかりのN/ばかりで
 
@@ -606,7 +606,7 @@ Anh ta toàn xem phim tôi (xem tối ngày)
 
 Thằng nhỏ nhà tôi không chịu làm gì, toàn chơi thôi.
 
-### Bài 4 -- Cấu trúc 20 :
+### Cấu trúc 20 :
 
 Nだけしか＋Vない
 
@@ -628,7 +628,7 @@ Buổi hoà nhạc này chỉ hội viên mới vào được
 
 Hôm nay chỉ có mỗi một khách tới
 
-### Bài 5 -- Cấu trúc 21 :
+### Cấu trúc 21 :
 
 N/Nに/Nで＋さえ
 
@@ -650,7 +650,7 @@ Ngay cả Hiragana còn không viết được, nên Kanji thì chắc là khôn
 
 Điều đó, ngay cả trẻ con cũng biết
 
-### Bài 5 -- Cấu trúc 22 :
+### Cấu trúc 22 :
 
 N＋こそ
 
@@ -676,7 +676,7 @@ Chính vì ~ Nhấn mạnh nguyên nhân
 
 Chính bởi vì yêu, nên anh (em) mới tránh mắng
 
-### Bài 5 -- Cấu trúc 23 :
+### Cấu trúc 23 :
 
 （Nに/[文]のに）＋関して/関しては/関しても/関するN
 
@@ -698,7 +698,7 @@ Về vấn đề này, có vị nào (ai) có ý kiến gì không ạ?
 
 Đọc luận văn (liên quan tới) về nông nghiệp
 
-### Bài 5 -- Cấu trúc 24 :
+### Cấu trúc 24 :
 
 Nに＋ついて/ついてのN/ついては/ついても
 
@@ -722,7 +722,7 @@ Mình học (về) âm nhạc đi
 
 Đọc "Chú ý về kỳ thi"
 
-### Bài 5 -- Cấu trúc 25 :
+### Cấu trúc 25 :
 
 Nに＋よれば/よると
 
@@ -746,7 +746,7 @@ Theo như dự báo thời tiêt thì (có vẻ như, có lẽ, có thể) ngày
 
 Căn cứ theo tin nhanh của tivi thì trận động đất vừa rồi (hình như)có rung chấn là 3 độ
 
-### Bài 6 -- Cấu trúc 26 :
+### Cấu trúc 26 :
 
 Nに＋よって/よっては/より/よるN
 
@@ -780,7 +780,7 @@ tuỳ mỗi người mà cách suy nghĩ có khác nhau
 
 Mái nhà bị gió thổi bay
 
-### Bài 6 -- Cấu trúc 27 :
+### Cấu trúc 27 :
 
 Aい＋さ（いい→よさ）
 
@@ -808,7 +808,7 @@ Mẫu này có tác dụng biến tính từ thành danh từ. Tham khảo thêm
 
 chúng ta phải dạy cho trẻ về tầm quan trọng của tính mạng
 
-### Bài 6 -- Cấu trúc 28 :
+### Cấu trúc 28 :
 
 Aい＋み
 
@@ -836,7 +836,7 @@ Dù tới bây giờ khi chiến tranh đã kết thúc, nối đau của đất
 
 Điểm mạnh của anh Tanaka là anh ấy có thể nói được 2 thứ tiếng
 
-### Bài 6 -- Cấu trúc 29 :
+### Cấu trúc 29 :
 
 Nの＋こと
 
@@ -858,7 +858,7 @@ Chuyện/ việc/ điều ~
 
 Anh có biết việc anh Tanaka nhập viện không?
 
-### Bài 6 -- Cấu trúc 30 :
+### Cấu trúc 30 :
 
 （V/N/Aい/Aな）普＋の
 
@@ -882,7 +882,7 @@ Tôi quên béng mất việc gọi điện cho anh Tanaka
 
 Tôi không thích lắm việc đi tới nơi đông người vào chủ Nhật
 
-### Bài 7 -- Cấu trúc 31 :
+### Cấu trúc 31 :
 
 NというN1
 
@@ -914,7 +914,7 @@ Vừa nãy có điện thoại từ anh Kimura (người gọi tên là Kimura)
 
 Không cần tiền, tức là miễn phí
 
-### Bài 7 -- Cấu trúc 32 :
+### Cấu trúc 32 :
 
 NというのはNっていうのは
 
@@ -936,7 +936,7 @@ Dejikame là cách nói tắt của từ Camera kỹ thuật số (dejitaru kame
 
 Cái từ Kakuthi trong tàu điện là cái gì vậy?
 
-### Bài 7 -- Cấu trúc 33 :
+### Cấu trúc 33 :
 
 [文]普＋というの/っていうの/ということ/っていうこと
 
@@ -966,7 +966,7 @@ Việc thường xuyên muộn như này là có vấn đề đấy
 
 Tôi không biết việc anh Tanaka là bác sỹ
 
-### Bài 7 -- Cấu trúc 34 :
+### Cấu trúc 34 :
 
 （V/Aい/Aな/N)普＋というより/というかB
 
@@ -996,7 +996,7 @@ Hôm nay không phải là mát mà là lạnh mới đúng.
 
 Cậu học sinh đó không phải là không thể, đúng ra là cậu ta không muốn làm"
 
-### Bài 7 -- Cấu trúc 35 :
+### Cấu trúc 35 :
 
 （V/N/Aい/Aな）普＋というと/といえば/といったら
 
@@ -1026,7 +1026,7 @@ Nếu nói về món ăn Nhật thì tôi nghĩ Sushi là mon nổi tiếng Nh�
 
 Nếu nói về hoa quả mùa hè thì chắc phải nói tới dưa hấu nhỉ"
 
-### Bài 8 - Cấu trúc 36 :
+### Cấu trúc 36 :
 
 （V/N/Aい/Aな）普＋といってもLưu ý：Nだ
 
@@ -1050,7 +1050,7 @@ Cuối tuần tôi đã đi du lịch. Nói là du lịch nhưng cũng chỉ là
 
 Tuần này nói là bận, nhưng cũng không bằng tuần trước
 
-### Bài 8 - Cấu trúc 37 :
+### Cấu trúc 37 :
 
 Vてごらん（なさい）
 
@@ -1076,7 +1076,7 @@ Không hiểu thì hãy hỏi giáo viên đi
 
 Thử làm 1 phát nữa xem nào.
 
-### Bài 8 - Cấu trúc 38 :
+### Cấu trúc 38 :
 
 （Vる/Vない）＋ように言う/ように頼む
 
@@ -1100,7 +1100,7 @@ Hãy bảo anh Tanaka tới phòng tôi nhé
 
 Tôi bị vợ cấm không được hút thuốc ở nhà
 
-### Bài 8 - Cấu trúc 39 :
+### Cấu trúc 39 :
 
 （V[命令形]/Vるな）+と+言われる/注意される/しかられる/おこられる
 
@@ -1150,7 +1150,7 @@ Tôi được bạn nhờ nói cho số điện thoại của anh Tanaka
 
 Tôi bị otsuka nói là không được đặt ở trước thềm nhà"
 
-### Bài 9 - Cấu trúc 41 :
+### Cấu trúc 41 :
 
 VてもAいくてもAな/N＋でも
 
@@ -1186,7 +1186,7 @@ Xin lỗi, màu đen đã bán hết rồi
 
 Không phải màu đen cũng không sao đâu
 
-### Bài 9 - Cấu trúc 42 :
+### Cấu trúc 42 :
 
 （どんなに/いくら）＋Vても/A(い)くても/A(な)でも/Nでも
 
@@ -1208,7 +1208,7 @@ Tôi đã bắt đầu học Ghi-ta nhưng dù tôi có luyện tập như thế
 
 Tôi dù có uống bao nhiêu rượu cũng không thay đổi sắc mặt
 
-### Bài 9 - Cấu trúc 43:
+### Cấu trúc 43:
 
 Vない＋ずに
 
@@ -1234,7 +1234,7 @@ Tôi đã viết mà không dùng tới từ điển, nên không tự tin
 
 Tôi qua tôi đi ngủ mà không đánh răng
 
-### Bài 9 - Cấu trúc 44 :
+### Cấu trúc 44 :
 
 Nと＋して/しても/しては/してのN
 
@@ -1258,7 +1258,7 @@ Anh ta là người nước ngoài nhưng tham dự trận đấu với tư các
 
 Cô ấy dù là với tư cách một người con gái hay với tư cách là 1 nữ diễn viên thì đều tuyệt vời, nhưng không hiểu với tư cách 1 người vợ thì thế nào.
 
-### Bài 9 - Cấu trúc 45 :
+### Cấu trúc 45 :
 
 （V/N/Aい/Aな)普＋にしては注意：Aだ、Nだそれにしては
 
@@ -1288,7 +1288,7 @@ Dù là lần dầu nhưng cũng đã làm tốt
 
 Đã giặt rồi á? Dù thế nhưng cũng không sạch nhỉ"
 
-### Bài 10 - Cấu trúc 46 :
+### Cấu trúc 46 :
 
 V/N/Aい/Aな)普＋にしても注意：Aだ、Nだそれにしても
 
@@ -1312,7 +1312,7 @@ Cái này dù 100 yên cũng vẫn đắt
 
 Tôi đã nghe là sẽ tới muộn, nhưng dù vậy anh Tanaka muộn nhỉ
 
-### Bài 10 - Cấu trúc 47 :
+### Cấu trúc 47 :
 
 （V/N/Aい/Aな)普＋としたら/とすれば
 
@@ -1336,7 +1336,7 @@ Nếu chuyện đó là thật thì thật vui
 
 Nếu đi bằng máy bay thì mất khoảng bao nhiêu
 
-### Bài 10 - Cấu trúc 48 :
+### Cấu trúc 48 :
 
 Vる/Vない＋つもりだった
 
@@ -1362,7 +1362,7 @@ Tôi đã định đi mua đồ hôm qua, nhưng đầu đau nên tôi ở nhà 
 
 Tôi định không ăn kẹo, nhưng cuối cùng lại ăn mất"
 
-### Bài 10 - Cấu trúc 49 :
+### Cấu trúc 49 :
 
 （V/N/Aい/Aな)普+はずだ/はずがない注意：Aな、Nの
 
@@ -1386,7 +1386,7 @@ Cậu Tanaka hôm nay đang đi du lịch, nên chắc chắn sẽ không có nh
 
 Anh Tanaka chăm chỉ đứng đắn chắc chắn sẽ không nghỉ không lý do"
 
-### Bài 10 - Cấu trúc 50 :
+### Cấu trúc 50 :
 
 （Vる/Aである/Aくある）+べきだ注意：すべき=するべきだ
 
@@ -1404,7 +1404,7 @@ Nói nên ý kiến của bản thân người nói về các sự việc chung,
 
 Phải giữ lời hứa
 
-### Bài 11 - Cấu trúc 51 :
+### Cấu trúc 51 :
 
 （Vた/Vなかった）＋ものだ/もんだ
 
@@ -1430,7 +1430,7 @@ Hồi bé tôi thường chơi ở sông
 
 Hôi học sinh ngày nào tôi cũng lên thư viện
 
-### Bài 11 - Cấu trúc 52:
+### Cấu trúc 52:
 
 （Nの/Vる/Vた）＋ついでに
 
@@ -1452,7 +1452,7 @@ Nhân tiện đi dạo, cậu gửi hộ tớ bức thư này được không
 
 Nhân tiện đi bưu điện, tôi đã mua thiệp
 
-### Bài 11 - Cấu trúc 53 :
+### Cấu trúc 53 :
 
 （Nの/Vる。その）＋たびに
 
@@ -1474,7 +1474,7 @@ Cứ mỗi lần mua đồ là lại nhận lại rất nhiều túi
 
 Cứ mỗi lần nghe ca khúc này, tôi lại nhớ tới quê hương
 
-### Bài 11 - Cấu trúc 54 :
+### Cấu trúc 54 :
 
 Vた＋とたん/とたんにVた。そのとたん～
 
@@ -1498,7 +1498,7 @@ Tôi vừa mở cửa sổ thì lập tức có một cơn gió mạnh thổi v�
 
 Vừa uống rượuc thì lập tức mặt đỏ"
 
-### Bài 11 - Cấu trúc 55 :
+### Cấu trúc 55 :
 
 （Nの/Vている）＋最中に/最中だ
 
@@ -1522,7 +1522,7 @@ Ngay trong lúc, đúng vào lúc ~
 
 Đúng lúc đang họp thì điện thoại reo
 
-### Bài 12 - Cấu trúc 56 :
+### Cấu trúc 56 :
 
 （Vる/Vた/Nの）＋とおりNどおり
 
@@ -1550,7 +1550,7 @@ Tuyết đã rơi, theo đúng dự báo
 
 Đúng như thầy giao nói, Bài thi khó
 
-### Bài 12 - Cấu trúc 57:
+### Cấu trúc 57:
 
 Vた/Vない＋まま
 
@@ -1578,7 +1578,7 @@ Hôm qua tôi để nguyên Tivi bật mà ngủ mất
 
 Món rau này để nguyên sống mà ăn cũng ngon
 
-### Bài 12 - Cấu trúc 58 :
+### Cấu trúc 58 :
 
 Vます＋っぱなし
 
@@ -1602,7 +1602,7 @@ Tôi cứ để cửa sổ mở mà ra ngoài
 
 Đừng có xả nước hoài như vậy
 
-### Bài 12 - Cấu trúc 59 :
+### Cấu trúc 59 :
 
 N＋きり/きりだ/っきり/っきりだ
 
@@ -1626,7 +1626,7 @@ Tôi muốn nói chuyện chỉ có 2 người
 
 Tôi chỉ gặp anh ấy đúng 1 lần
 
-### Bài 12 - Cấu trúc 60 :
+### Cấu trúc 60 :
 
 （Aい/Aな/Vたい）＋がる/がって/がらないで
 
@@ -1656,7 +1656,7 @@ Trợ từ が→を
 
 Anh Tanaka muốn gặp anh đó
 
-### Bài 13 - Cấu trúc 61 :
+### Cấu trúc 61 :
 
 （Vて/Vないで）＋ほしい/もらいたい
 
@@ -1680,7 +1680,7 @@ Xin hãy, xin chớ, mong cho...
 
 Tôi có chuyện muốn anh chỉ bảo giúp
 
-### Bài 13 - Cấu trúc 62 :
+### Cấu trúc 62 :
 
 （V/N/Aい/Aな)普＋ふりをする注意：Aな、Nの
 
@@ -1698,7 +1698,7 @@ Anh ra ra vẻ là biết chuyện đó nhưng thực tình là không biết
 
 Anh Tanaka ra vẻ độc thân, nhưng đã kết hôn và có 3 con
 
-### Bài 13 - Cấu trúc 63 :
+### Cấu trúc 63 :
 
 Nに＋とって/とっては/とっても
 
@@ -1722,7 +1722,7 @@ Với anh, điều quan trọng nhất là gì
 
 Với người khu đó, Ô tô là thứ thiết yếu
 
-### Bài 13 - Cấu trúc 64 :
+### Cấu trúc 64 :
 
 （V/N/Aい/Aな)普＋わりに/わりにはNの、Aな
 
@@ -1748,7 +1748,7 @@ So với tuổi thì trông trẻ
 
 nói là không có tiền, vậy mà hay mua đồ nhỉ"
 
-### Bài 13 - Cấu trúc 65 :
+### Cấu trúc 65 :
 
 （V/N/Aい/Aな)普＋くせに
 
@@ -1774,7 +1774,7 @@ Biết vậy mà không bảo
 
 Khoẻ mạnh, vậy mà lại giả bệnh
 
-### Bài 14 - Cấu trúc 66 :
+### Cấu trúc 66 :
 
 （N/Aなで/Vて/Aいく）＋なんか/なんて/など
 
@@ -1816,7 +1816,7 @@ Khóc khiếc gì đâu
 
 Tôi không thể dùng tiếng Nhật để thuyết trình (thuyết chèo được)
 
-### Bài 14 - Cấu trúc 67 :
+### Cấu trúc 67 :
 
 （V/N/Aい/Aな)普＋おかげで/おかげだ
 
@@ -1838,7 +1838,7 @@ Nhờ có thấy giáo mà tôi đã đỗ
 
 Nhờ đến Nhật mà tiếng Nhật của tôi đã giỏi lên
 
-### Bài 14 - Cấu trúc 68 :
+### Cấu trúc 68 :
 
 （V/N/Aい/Aな)普＋せいで/せいか/せいだ
 
@@ -1864,7 +1864,7 @@ Bởi xe Bus chậm nên tôi không kịp giờ hẹn
 
 Không hiểu có phải là do mệ không mà tôi bị đau đầu
 
-### Bài 14 - Cấu trúc 69 :
+### Cấu trúc 69 :
 
 （V/N/Aい/Aな)普＋かわりに
 
@@ -1890,7 +1890,7 @@ Bởi tôi đi xe ô tô đến nên thay vì bia hãy có tôi nước ngọt
 
 Bù lại cho việc đã đi làm vào chủ Nhật, hôm nay tôi đã xin nghỉ (bù)
 
-### Bài 14 - Cấu trúc 70 :
+### Cấu trúc 70 :
 
 N1に＋代(か)わって/代(か)わりN2
 
@@ -1914,7 +1914,7 @@ Thay cho trưởng phòng đang đi công tác, tôi xin phép được chào đ
 
 Thay cho Bóng chày, tôi đã tham gia đá bóng
 
-### Bài 15 - Cấu trúc 71 :
+### Cấu trúc 71 :
 
 （N/Aい/Aな/Vる）＋（くらい/ぐらい/ほど）＋（だ/に/のN)
 
@@ -1946,7 +1946,7 @@ Bột giặt này làm chất bẩn mất đi (rơi) tới mức thật thú v�
 
 Ăn tới mức chán
 
-### Bài 15 - Cấu trúc 72 :
+### Cấu trúc 72 :
 
 （Aい/Aな）＋ほど/Nほど
 
@@ -1970,7 +1970,7 @@ Càng người trẻ thì càng hay ngủ quên
 
 Những đồ truyền thống thì càng cổ (cũ) càng có giá
 
-### Bài 15 - Cấu trúc 73 :
+### Cấu trúc 73 :
 
 VばVるほど
 
@@ -1998,7 +1998,7 @@ Càng biết nhiều về anh ấy càng thấy thích
 
 Đồ đạc càng ít càng tốt
 
-### Bài 15 - Cấu trúc 74 :
+### Cấu trúc 74 :
 
 （N1くらい/N1ほど）＋N［人］はいない/N［物/事］はない
 
@@ -2020,7 +2020,7 @@ Không có ai tốt bụng bằng (cỡ như) cô ấy
 
 Không có thành phố nào tuyết rơi nhiều như thủ đô"
 
-### Bài 15 - Cấu trúc 75 :
+### Cấu trúc 75 :
 
 Vる＋ことはない
 
@@ -2044,7 +2044,7 @@ Cậu không cần phải xin lỗi
 
 Không cần phải tới. Gửi theo đường bưu điện cũng được.
 
-### Bài 16 - Cấu trúc 76 :
+### Cấu trúc 76 :
 
 （V/N/Aい/Aな)普＋ということだ
 
@@ -2070,7 +2070,7 @@ Có điện thoại từ anh Tanaka. Anh ấy bảo sẽ tới muộn 1 chút
 
 Kết quả thi là 70%, có nghĩa là đỗ
 
-### Bài 16 - Cấu trúc 77 :
+### Cấu trúc 77 :
 
 Vる/Vない＋ことだ
 
@@ -2094,7 +2094,7 @@ Làm cho ấm (bật lò sưởi cho ấm), rồi nghỉ ngơi thư thả
 
 Không được làm quá sức
 
-### Bài 16 - Cấu trúc 78 :
+### Cấu trúc 78 :
 
 （どんなに/どれだけ/どれほど）＋
 
@@ -2120,7 +2120,7 @@ Nếu đỗ thì không hiểu sẽ vui tới mức nào
 
 Không biết tôi đã nhắc bao nhiêu lần rồi
 
-### Bài 16 - Cấu trúc 79 :
+### Cấu trúc 79 :
 
 （（N/Aな）普/Aかった/Vた）＋っけ
 
@@ -2148,7 +2148,7 @@ Hình như tuần sau anh về nước à?
 
 Chuyện tiệc ngày mai, tôi đã nói chưa nhỉ?"
 
-### Bài 16 - Cấu trúc 80:
+### Cấu trúc 80:
 
 Vる＋しかない
 
@@ -2168,7 +2168,7 @@ Chỉ còn cách làm hết khả năng (làm tới mức có thể)
 
 Không sửa được, nên chỉ còn cách mua cái mới
 
-### Bài 17 - Cấu trúc 81 :
+### Cấu trúc 81 :
 
 （V/N/Aい/Aな)普＋（んだ）って
 
@@ -2198,7 +2198,7 @@ Nghe nói anh Tanaka đã kết hôn. Hở... Tớ không biết chuyện đó
 
 Nghe nói phạn vi Bài kiểm tra (giới hạn Bài thi) là từ đầu tới Bài 50 trong sách giáo khoa
 
-### Bài 17 - Cấu trúc 82 :
+### Cấu trúc 82 :
 
 （V/N/Aい/Aな)普＋（んだ）もん/もの
 
@@ -2226,7 +2226,7 @@ Tại sao không ăn? Thì... Vì đồ ăn dở lắm
 
 Tớ không làm được Bài thi hôm nay... Thì có học hành gì đâu, không còn cách nào khác
 
-### Bài 17 - Cấu trúc 83 :
+### Cấu trúc 83 :
 
 A,つまりB
 
@@ -2250,7 +2250,7 @@ Anh của bố tôi, tức là bác của tôi đang làm bác sỹ
 
 Anh Tanaka điện thoại cũng không mang, máy tính cũng không mang (không có). Có nghĩa là không thể liên lạc bằng mail được
 
-### Bài 17 - Cấu trúc 84 :
+### Cấu trúc 84 :
 
 Lý do / mục đích。そのため（に）kết quả
 
@@ -2272,7 +2272,7 @@ Hình như ga bên cạnh có tai nạn, vậy nên tàu điện bị muộn
 
 Tôi định đi du học, vậy nên tôi làm thêm để tích tiền"
 
-### Bài 17 - Cấu trúc 85 :
+### Cấu trúc 85 :
 
 Nguyên nhân ( đã xảy ra trong quá khứ)。その結果、kết quả
 
@@ -2294,7 +2294,7 @@ Bố tôi nỗ lực gấp nhiều lần người thường. Do vậy, đã thà
 
 Tôi đã ăn kiêng liên tục trong 3 tháng. Kết quả là, đã giảm 5 cân
 
-### Bài 18 - Cấu trúc 86 :
+### Cấu trúc 86 :
 
 Kết luận。（なぜなら/なぜかというと/どうしてかというと）、nguyên nhân＋からだ
 
@@ -2316,7 +2316,7 @@ Tuần sauy tôi định về nước. Lý do là vì tôi về tham dự lễ k
 
 Tôi đã chuyển trường, Lý do thì là vì : ở đó không có lớp cùng trình độ với tôi
 
-### Bài 18 - Cấu trúc 87 :
+### Cấu trúc 87 :
 
 N1はもちろん、N2も
 
@@ -2342,7 +2342,7 @@ Anh ấy học hành thì đương nhiên (khỏi phải nói, đương nhiê l�
 
 Cải bắp thì xào lên rồi ăn thì đương nhiên (là ngon), ăn sống cũng ngon
 
-### Bài 18 - Cấu trúc 88 :
+### Cấu trúc 88 :
 
 （V/N/Aい/Aな)普＋ばかりか...（も）/ばかりでなく...（も）Chú ý：Nだ、Aだな
 
@@ -2366,7 +2366,7 @@ Cửa hàng đó không chỉ vị không ngon (món ăn không ngon), thái đ�
 
 Tôi thì không chỉ Kanji mà ngay cả Hiragana cũng không viết được
 
-### Bài 18 - Cấu trúc 89 :
+### Cấu trúc 89 :
 
 （N/［文］の）+に+比べ/比べて～
 
@@ -2390,7 +2390,7 @@ So với A thì B ~
 
 So vơi việc mua tại của hàng thì mua trực tuyến (mạng, điện thoại...) cũng tiện, nhưng cũng có nhược điểm"
 
-### Bài 18 - Cấu trúc 90 :
+### Cấu trúc 90 :
 
 （N/［文］の）+に+対して/対し/対しては/対しても/対するN
 
@@ -2414,7 +2414,7 @@ Thầy Tanaka nghiêm khắc với học sinh
 
 Trái ngược với cậu trưởng nam ngoan ngoãn chăm chỉ, cậu con trai thứ thì toàn chơi, và cũng hay nghỉ học"
 
-### Bài 19 - Cấu trúc 91 :
+### Cấu trúc 91 :
 
 Vます＋あげる/あがる
 
@@ -2438,7 +2438,7 @@ Cuối cùng thì tôi cũng đã viết xong báo cáo
 
 Bánh nước xong rồi
 
-### Bài 19 - Cấu trúc 92 :
+### Cấu trúc 92 :
 
 Vます＋切る/切れる
 
@@ -2462,7 +2462,7 @@ Cơm nhiều quá, ăn không hết
 
 Tiểu thuyết dài không thể đọc hết trong 2 ngày
 
-### Bài 19 - Cấu trúc 93 :
+### Cấu trúc 93 :
 
 Vます＋かける/かけのN/かけだ
 
@@ -2486,7 +2486,7 @@ Cuốn sách này tôi vẫn đang đọc dở
 
 Khi tôi đang ở trong bồn tắm (đang tắm dở) thì điện thoại reo
 
-### Bài 19 - Cấu trúc 94 :
+### Cấu trúc 94 :
 
 Vます＋たてだ/たてのN
 
@@ -2514,7 +2514,7 @@ Bánh mì vừa nướng xong thật ngon
 
 Siêu thị đó đang bán rau tươi vừa hái xong"
 
-### Bài 19 - Cấu trúc 95 :
+### Cấu trúc 95 :
 
 （V/N/Aい/Aな)普+といい（のに）なあ
 
@@ -2554,7 +2554,7 @@ Nếu nguyên liệu mà tươi (thì tốt) nhỉ
 
 Giáo viên chủ nhiệm mà là thầy Tanaka nhỉ !"
 
-### Bài 20 - Cấu trúc 96 :
+### Cấu trúc 96 :
 
 （Vば/Vなければ/Vたら/Vなかったら）＋よかった
 
@@ -2578,7 +2578,7 @@ Tôi đã bị muộn, giá mà tôi đã ra khỏi nhà sớm hơn
 
 Anh Tanaka nếu không nói điều đó thì tốt biết bao
 
-### Bài 20 - Cấu trúc 97 :
+### Cấu trúc 97 :
 
 Vば～のにVたら～のに
 
@@ -2602,7 +2602,7 @@ Tiệc vui lắm. Cậu mà đến tốt biết mấy (vậy mà lại không t�
 
 Nếu rẻ thì tôi đã mua (đáng tiếng là không rẻ nên không mua)
 
-### Bài 20 - Cấu trúc 98 :
+### Cấu trúc 98 :
 
 Vる＋かな（あ）Vない＋かな（あ）
 
@@ -2634,7 +2634,7 @@ Không biết kỳ thi này có làm tốt không đây
 
 Không biết hôm nay có nhìn thấy núi Phú Sỹ không nhỉ
 
-### Bài 20 - Cấu trúc 99 :
+### Cấu trúc 99 :
 
 Vる＋まで
 
@@ -2656,7 +2656,7 @@ Bộ phim còn 30 phút nữa thì bắt đầu
 
 Tôi đang đợi tới khi có liên lạc"
 
-### Bài 20 - Cấu trúc 100 :
+### Cấu trúc 100 :
 
 N＋まで
 
@@ -2680,7 +2680,7 @@ Con cá này có thể ăn tới tận cả xương đó
 
 Tới cả cậu cũng nghi ngờ tớ à?"
 
-### Bài 21 - Cấu trúc 101 :
+### Cấu trúc 101 :
 
 N1からN2にかけて
 
@@ -2704,7 +2704,7 @@ Ngày mai, dự báo là sẽ mưa rơi từ trưa tới chiều tối
 
 Mùa mưa đã đến từ Kyuushuu tới Honshuu
 
-### Bài 21 - Cấu trúc 102 :
+### Cấu trúc 102 :
 
 Nにおいて
 
@@ -2726,7 +2726,7 @@ Hội nghị quốc tế được tổ chức tại Osaka
 
 Kết quả được công bố trên Trang chủ
 
-### Bài 21 - Cấu trúc 103 :
+### Cấu trúc 103 :
 
 たとえ＋（Vても/Aいくても/Aなでも/Nでも）
 
@@ -2748,7 +2748,7 @@ Dù cho có bị phản đối thì tôi vẫn đi du học
 
 Dù cho có không khoẻ thì cũng viết là khoẻ trong thư gửi gia đình
 
-### Bài 21 - Cấu trúc 104 :
+### Cấu trúc 104 :
 
 もしかすると/もしかしたら＋（V/N/Aい/Aな)普＋かもしれない
 
@@ -2774,7 +2774,7 @@ Không chừng, câu chuyện của anh ta là nói dối
 
 Có khi ngay mai không đi"
 
-### Bài 21 - Cấu trúc 105 :
+### Cấu trúc 105 :
 
 必ずしも＋（V/N/Aい/Aな)普＋とは限らない
 
@@ -2798,7 +2798,7 @@ Người giàu không nhất thiết là hạnh phúc
 
 Không hẳn cứ đồ đắt tiền là tốt"
 
-### Bài 22 - Cấu trúc 106 :
+### Cấu trúc 106 :
 
 まるで＋Nの/V普＋よう
 
@@ -2826,7 +2826,7 @@ So sánh một trạng thái với một sự vật, sự việc. So sánh 2 v�
 
 Tiếng Nhật của anh ấy nghe hệt như người Nhật nói
 
-### Bài 22 - Cấu trúc 107 :
+### Cấu trúc 107 :
 
 ［文1］。けれど、[文2]
 
@@ -2850,7 +2850,7 @@ Tôi muốn đi du lịch. Tuy nhiên không có thời gian rảnh
 
 Tôi hay đi hát Karaoke. Tuy nhiên, tôi hát kém
 
-### Bài 22 - Cấu trúc 108 :
+### Cấu trúc 108 :
 
 Lý do / nguyên nhân。ですからkết quả hiển nhiên / phán đoán
 
@@ -2872,7 +2872,7 @@ Theo dự báo thời tiết thì từ chiều sẽ có mưa. Vì vậy, nên ma
 
 Ngày mai tôi sẽ đi du lịch. Vì vậy, rất xin lỗi, tôi không thể tham dự tiệc tuần sau được
 
-### Bài 22 - Cấu trúc 109 :
+### Cấu trúc 109 :
 
 Dự đoán / dự định。ところがkết quả / sự thực khác với dự đoán
 
@@ -2896,7 +2896,7 @@ Tối qua tôi định đi xem hoà nhạc. Nhưng mà bị bệnh nên không �
 
 Tôi nghĩ rằng anh Tanaka trẻ hơn tôi. Nhưng thực ra anh ấy già hơn tôi 5 tuổi"
 
-### Bài 22 - Cấu trúc 110 :
+### Cấu trúc 110 :
 
 [文1]。ところで、[文2]
 
@@ -2920,7 +2920,7 @@ Ngày mai thi à, cố lên nhé. À mà nè, thứ 2 tuần sau cậu rảnh kh
 
 Năm nay sắp hết rồi nhỉ. À, Tết cậu định thế nào"
 
-### Bài 23 - Cấu trúc 111 :
+### Cấu trúc 111 :
 
 もし＋Vた（な）ら/Aかった（な）ら/Aだった（な）ら/Nだった（な）ら
 
@@ -2944,7 +2944,7 @@ Nếu anh ấy không phải là giám đốc thì công ty đã phá sản rồ
 
 Nếu như không đi du học, thì có lẽ tầm này tôi đã ở nhà kết hôn rồi
 
-### Bài 23 - Cấu trúc 112 :
+### Cấu trúc 112 :
 
 もし＋（V/N/Aい/Aな)普＋としても/としたって
 
@@ -2974,7 +2974,7 @@ Cho dù có nhiều tiền tôi cũng không mua cái đó
 
 Cho dù có tới được trận trung kết thì cũng khó mà vô địch được.
 
-### Bài 23 - Cấu trúc 113 :
+### Cấu trúc 113 :
 
 もしも＋（V/N/Aい/Aな)普なら/Aなら/Nなら/Vたら/Nだったら/Aだったら/Aかったら/Vても/Aくても/Aでも/Nでも
 
@@ -2996,7 +2996,7 @@ Nếu có thể được sinh ra lại, tôi muốn làm con trai
 
 Cho dù có động đất, thì nhà này rất chắc nên sẽ chắc sẽ không đổ
 
-### Bài 23 - Cấu trúc 114 :
+### Cấu trúc 114 :
 
 Vる/Vない＋ことになる
 
@@ -3020,7 +3020,7 @@ Ngày mai sẽ có cuộc học về kế hoạch kinh doanh mới
 
 Lần này tôi (bị công ty) chuyển công tác đi Osaka"
 
-### Bài 23 - Cấu trúc 115 :
+### Cấu trúc 115 :
 
 Vる/Vない＋ことにする
 
@@ -3044,7 +3044,7 @@ Tôi đang thực hiện việc chạy 30 phút mỗi sáng
 
 Ớ, cậu không đi mua đồ à? Tớ đã quyết để ngày mai đi"
 
-### Bài 24 - Cấu trúc 116 :
+### Cấu trúc 116 :
 
 （VることはVる）/（AいことはAい）/（AなことはAだ）＋が/けれど
 
@@ -3068,7 +3068,7 @@ Piano nói là đánh thì tôi đánh được, nhưng mà không giỏi
 
 Cái túi này, đắt thì đắt thật nhưng dễ dùng
 
-### Bài 24 - Cấu trúc 117:
+### Cấu trúc 117:
 
 Aくない/Aじゃない/Vない/Vられない＋ことはない
 
@@ -3090,7 +3090,7 @@ Không phải là tôi không ăn thịt gà, nhưng tôi không thích lắm
 
 Nếu chạy thì không hẳn là sẽ không kịp. Nhanh lên !
 
-### Bài 24 - Cấu trúc 118 :
+### Cấu trúc 118 :
 
 Vたところ
 
@@ -3112,7 +3112,7 @@ Tớ vừa vừa hỏi thầy giáo về giới hạn Bài kiểm tra lần này
 
 Răng bị đau nên tớ vừa mới đi gặp nha sỹ. Bác sỹ bảo tớ bị sâu răng nặng
 
-### Bài 24 - Cấu trúc 119 :
+### Cấu trúc 119 :
 
 Vる＋ところだった
 
@@ -3134,7 +3134,7 @@ Chỉ một chút nữa thôi, suýt thì muộn
 
 Chỉ thêm một chút nữa thì đỗ, vậy mà..."
 
-### Bài 24 - Cấu trúc 120 :
+### Cấu trúc 120 :
 
 Vて＋はじめて
 
@@ -3154,7 +3154,7 @@ Tới khi được thấy nhắc, lần đầu tiên tớ mới nhận ra lỗi 
 
 Từ lúc xem Kabuki tớ mớ bắt đầu hứng thú với văn hoá Nhật Bản"
 
-### Bài 25 - Cấu trúc 121 :
+### Cấu trúc 121 :
 
 Vている/Vない/Aい/Aな/Nの＋うちに
 
@@ -3174,7 +3174,7 @@ Giờ còn sáng, về đi
 
 Trong lúc còn chưa quên, hãy ghi chú lại thôi
 
-### Bài 25 - Cấu trúc 122 :
+### Cấu trúc 122 :
 
 （V/N/Aい/Aな)普＋わけだ
 
@@ -3198,7 +3198,7 @@ Thảo nào nóng thế. Nhiệt độ tận 36 độ
 
 Anh Tanaka có vẻ bị cô ấy đá. Quả là vậy, thảo nào mà trông không được khoẻ
 
-### Bài 25 - Cấu trúc 123 :
+### Cấu trúc 123 :
 
 （V/N/Aい/Aな)普＋わけではない
 
@@ -3220,7 +3220,7 @@ Không hẳn là ghét, nhưng mà tôi không ăn thịt mấy
 
 Không phải là tôi không xem ti vi, nhưn toi nghe âm nhạc nhiều
 
-### Bài 25 - Cấu trúc 124 :
+### Cấu trúc 124 :
 
 （V/N/Aい/Aな)普＋わけがない/わけはない
 
@@ -3250,7 +3250,7 @@ Cái bánh mỳ này, không phải cũ sao?
 
 Cũ đâu mà cũ, tớ vừa mua hôm qua đấy"
 
-### Bài 25 - Cấu trúc 125 :
+### Cấu trúc 125 :
 
 る/Vている＋わけにはいかない/わけにもいかない
 
@@ -3274,7 +3274,7 @@ Vì có cuộc họp quan trọng nên không thể nghỉ được
 
 Đây là mệnh lệnh của Giám đốc do vậy phải theo thôi"
 
-### Bài 26 - Cấu trúc 126 :
+### Cấu trúc 126 :
 
 決して＋Vない/Aくない/Aでない/Nでない
 
@@ -3296,7 +3296,7 @@ Tôi nhất quyết sẽ không từ bỏ ước mơ
 
 Anh ấy nói : quyết không nói dối"
 
-### Bài 26 - Cấu trúc 127 :
+### Cấu trúc 127 :
 
 まったく＋Vない/Aくない/Aでない
 
@@ -3320,7 +3320,7 @@ Tôi hoàn toàn toàn không bơi được
 
 Tôi hoàn toàn không hiểu được lý do tại sao anh ấy tức giận
 
-### Bài 26 - Cấu trúc 128 :
+### Cấu trúc 128 :
 
 Nはめったにない
 
@@ -3346,7 +3346,7 @@ Hiếm khi có cơ hội như này lắm
 
 Tôi bận, hoàn toàn không nghỉ được
 
-### Bài 26 - Cấu trúc 129 :
+### Cấu trúc 129 :
 
 少しも/ちょっとも＋Vない/Aくない/Aでない
 
@@ -3368,7 +3368,7 @@ Tiếng anh mà người đó nói tôi không hiểu chút nào
 
 Chuyện thời trang (phong cách) tôi không quan tâm chút nào"
 
-### Bài 26 - Cấu trúc 130 :
+### Cấu trúc 130 :
 
 [文1]。それと、[文2]
 
