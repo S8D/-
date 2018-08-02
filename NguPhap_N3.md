@@ -1,4 +1,4 @@
-### Bài 1 -- Cấu trúc 1 :
+### Cấu trúc 1 :
 
 Vれる：
 
@@ -34,7 +34,7 @@ Lễ nhập học được tổ chức tại tòa nhà này
 
 Toà nhà này được xây dựng cách đây 300 năm
 
-### Bài 1 -- Cấu trúc 2 :
+### Cấu trúc 2 :
 
 Nに＋Vれる
 
@@ -58,7 +58,7 @@ Tôi bị dính mưa (bị mưa nó rơi trúng người), nên quần áo ướ
 
 Vì bố mất (bị hành động mất của bố gây ảnh hưởng) nên tôi không thể học tiếp đại học được
 
-### Bài 1 -- Cấu trúc 3 :
+### Cấu trúc 3 :
 
 V（さ）せてください : hãy cho phép tôi làm ...
 
@@ -108,7 +108,7 @@ Xin hãy cho tôi nghe chuyện công ty của anh.
 
 Cho phép tôi rửa tay
 
-### Bài 1 -- Cấu trúc 4 :
+### Cấu trúc 4 :
 
 Vないと
 
@@ -142,7 +142,7 @@ Sáng mai phải đi sớm, giờ phải đi ngủ thôi (nếu không đi ngủ
 
 Phải tra lời mail của anh Tanaka thôi
 
-### Bài 1 -- Cấu trúc 5 :
+### Cấu trúc 5 :
 
 V(て)＋ちゃう
 
