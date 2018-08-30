@@ -1,5 +1,5 @@
 お住まい		おすまい				Trú, trụ
-ご免				ごめん					Miễn	, vấn
+ご免				ごめん					Miễn, vấn
 一位				いちい					Nhất vị
 一体				いったい				Nhất thể
 一個				いちこ					Nhất cá
@@ -64,8 +64,8 @@
 侍女				じじょ					Thị nữ
 依る				よる						Ỷ
 依頼				いらい					Ỷ lại
-価値				かち						Gi á trị
-価格				かかく					Gi á cách
+価値				かち						Giá trị
+価格				かかく					Giá cách
 侵入				しんにゅう			Xâm nhập
 便利				べんり					Tiện lợi
 便秘				べんぴ					Tiện bí
@@ -121,7 +121,7 @@
 受信				じゅしん				Thụ tín
 古今				ここん					Cổ kim
 定休				ていきゅう			Định hưu
-定価				ていか					Định gi á
+定価				ていか					Định giá
 年俸				ねんぽう				Niên	bổng
 想像				そうぞう				Tưởng tượng
 愛児				あいじ					Ái nhi
@@ -134,7 +134,7 @@
 添付				てんぷ					Thiêm phó
 準備				じゅんび				Chuẩn bị
 為替				かわせ					Vi	thế
-物価				ぶっか					Vật gi á
+物価				ぶっか					Vật giá
 用件				ようけん				Dụng kiện
 百億				ひゃくおく			Bách ức
 真似をする	まねをする			Chân tự
